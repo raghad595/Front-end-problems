@@ -1,2 +1,2 @@
 # Front-end-problems
-problems with HTML, CSS
+problems solved with HTML, CSS, JS
